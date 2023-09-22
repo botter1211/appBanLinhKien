@@ -1,0 +1,12 @@
+D:\LapTrinh\bttailop\19607022\bin\Debug\19607022.exe.config
+D:\LapTrinh\bttailop\19607022\obj\Debug\19607022.csprojResolveAssemblyReference.cache
+D:\LapTrinh\bttailop\19607022\obj\Debug\_19607022.frmbt1.resources
+D:\LapTrinh\bttailop\19607022\obj\Debug\_19607022.Properties.Resources.resources
+D:\LapTrinh\bttailop\19607022\obj\Debug\19607022.csproj.GenerateResource.Cache
+D:\LapTrinh\bttailop\19607022\bin\Debug\19607022.exe
+D:\LapTrinh\bttailop\19607022\bin\Debug\19607022.pdb
+D:\LapTrinh\bttailop\19607022\obj\Debug\19607022.exe
+D:\LapTrinh\bttailop\19607022\obj\Debug\19607022.pdb
+D:\LapTrinh\bttailop\19607022\obj\Debug\_19607022.frmbt2.resources
+D:\LapTrinh\bttailop\19607022\obj\Debug\_19607022.frmbt3.resources
+D:\LapTrinh\bttailop\19607022\obj\Debug\_19607022.frmbt6.resources
